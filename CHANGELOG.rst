@@ -7,6 +7,8 @@ next
 ----
 
 - nudge landscape 9 deg to east
+- gazetteer
+- add KBC gebouw
 
 0.1 (2018-10-07)
 ----------------
@@ -20,5 +22,5 @@ BUSY
 TODO
 ====
 
-- better pucs (clear, uniform)
+- better pics (clear, uniform)
 - refine parameters

@@ -1,0 +1,11 @@
+# Fields must be separated by vertical line, label must not have such a vertical line.
+# Comments have this hash mark in first column. 
+# coordinates in degrees from true North. 
+# line towards zenith draws a single line strictly upward.
+# label is centered on line endpoint. 
+# Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
+
+322 | 0 | 0 | 0 | Virginie Loveling
+
+# 118.5m - 1.2nm/2.2km = 3.0832d - 1d vis
+233 | 0 | 0 | 0 | KBC toren
