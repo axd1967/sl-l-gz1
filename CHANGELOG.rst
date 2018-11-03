@@ -3,12 +3,11 @@ Releases
 
 .. contents::
 
-next
-----
+1.1 (2018-11-03)
+----------------
 
 - nudge landscape 9 deg to east
-- gazetteer
-- add KBC gebouw
+- V. Loveling, KBC
 
 0.1 (2018-10-07)
 ----------------
