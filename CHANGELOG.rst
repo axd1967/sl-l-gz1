@@ -3,6 +3,17 @@ Releases
 
 .. contents::
 
+recent
+------
+
+1.2 (2019-04-02)
+----------------
+
+- naam van de landscape
+- Ledeganck
+- onbekende antenne
+
+
 1.1 (2018-11-03)
 ----------------
 
