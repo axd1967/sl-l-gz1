@@ -3,6 +3,11 @@ Releases
 
 .. contents::
 
+Current
+-------
+
+- use `figure` iso `image``
+
 2019-08-28: 1.3
 ---------------
 
