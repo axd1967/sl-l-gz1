@@ -3,25 +3,28 @@ Releases
 
 .. contents::
 
-recent
-------
+2019-08-28: 1.3
+---------------
 
-1.2 (2019-04-02)
-----------------
+- add screenshots
+- Changelog format
+
+2019-04-02: 1.2
+---------------
 
 - naam van de landscape
 - Ledeganck
 - onbekende antenne
 
 
-1.1 (2018-11-03)
-----------------
+2018-11-03: 1.1
+---------------
 
 - nudge landscape 9 deg to east
 - V. Loveling, KBC
 
-0.1 (2018-10-07)
-----------------
+2018-10-07: 0.1
+---------------
 
 - beta release
 
