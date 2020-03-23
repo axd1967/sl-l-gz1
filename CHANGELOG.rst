@@ -3,6 +3,11 @@ Releases
 
 .. contents::
 
+current
+-------
+
+- reset based on better Loveling azimuth
+
 2020-03-23: 1.4
 ---------------
 
