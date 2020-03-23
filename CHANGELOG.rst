@@ -3,8 +3,8 @@ Releases
 
 .. contents::
 
-Current
--------
+2020-03-23: 1.4
+---------------
 
 - update antennae
 - use `figure` iso `image``
