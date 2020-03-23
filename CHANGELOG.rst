@@ -3,10 +3,10 @@ Releases
 
 .. contents::
 
-current
--------
+2020-03-23: 1.5
+---------------
 
-- reset based on better Loveling azimuth
+- offset on better Loveling azimuth
 
 2020-03-23: 1.4
 ---------------
