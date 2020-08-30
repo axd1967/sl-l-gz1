@@ -9,7 +9,7 @@ Landscape file for use in `Stellarium <https://stellarium.org/>`_.
     Ganzendries looking NE, 2019-08-27 1519+02
 
 Installing a landscape
-===
+======================
 
 Save the zip file from https://github.com/axd1967/sl-l-gz1/releases
 
@@ -23,7 +23,7 @@ Import the zip file
 
 
 Enable the landscape
-===
+====================
 
 .. image:: usage.png
 

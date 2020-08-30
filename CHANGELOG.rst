@@ -3,6 +3,13 @@ Releases
 
 .. contents::
 
+2020-08-30: 1.5.1
+-----------------
+
+- refine docs
+- Ganzendries N/Z axes
+- timezone / country bug
+
 2020-03-23: 1.5
 ---------------
 
@@ -30,6 +37,7 @@ Releases
 
 2018-11-03: 1.1
 ---------------
+---
 
 - nudge landscape 9 deg to east
 - V. Loveling, KBC
@@ -48,3 +56,4 @@ TODO
 
 - better pics (clear, uniform)
 - refine parameters
+
